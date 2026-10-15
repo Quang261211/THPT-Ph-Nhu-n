@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48"><path d="M24 2 43 9 41 29 24 46 7 29 5 9Z" fill="#102d50" stroke="#d9b56d" stroke-width="2"/><text x="24" y="27" text-anchor="middle" font-family="Georgia,serif" font-size="15" font-weight="bold" fill="#f4d995">PN</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 366 542" role="img" aria-labelledby="title">
+<title>Logo Trường THPT Phú Nhuận</title>
+<rect width="366" height="542" fill="#fff"/>
+<path d="M183 3 C137 52 87 77 3 102 L4 347 Q7 467 183 539 Q359 467 362 347 L363 102 C279 77 229 52 183 3Z" fill="#fff" stroke="#c62828" stroke-width="4"/>
+<path d="M183 15 C140 61 90 85 12 107 L13 346 Q17 457 183 525 Q349 457 353 346 L354 107 C276 85 226 61 183 15Z" fill="none" stroke="#c62828" stroke-width="1.5"/>
+<text x="94" y="199" font-family="Arial,sans-serif" font-size="119" font-weight="500" fill="#087db7" text-anchor="middle">P</text>
+<text x="274" y="199" font-family="Arial,sans-serif" font-size="119" font-weight="500" fill="#087db7" text-anchor="middle">N</text>
+<path d="M177 35 C169 65 161 75 158 104 C151 91 146 74 149 59 C135 81 136 116 152 145 L177 171 L190 129 C203 103 193 77 177 35Z" fill="#c62828"/>
+<path d="M185 27 C189 60 207 76 205 102 C204 125 193 144 183 168 C172 145 173 123 180 101 C188 78 189 55 185 27Z" fill="#c62828"/>
+<path d="M130 188 L236 188 L224 208 L204 208 L197 293 L169 293 L160 208 L141 208Z" fill="#30206f"/>
+<path d="M54 220 Q104 243 154 230 L164 308 L158 350 L57 340Z" fill="#087db7"/>
+<path d="M312 220 Q262 243 212 230 L202 308 L208 350 L309 340Z" fill="#087db7"/>
+<path d="M91 390 L117 309 Q183 295 249 309 L276 390 Q183 410 91 390Z" fill="#fff" stroke="#c62828" stroke-width="3"/>
+<path d="M183 307 L183 397" stroke="#c62828" stroke-width="2"/>
+<text x="147" y="357" font-family="Arial,sans-serif" font-size="27" font-weight="bold" fill="#30206f" text-anchor="middle">24</text>
+<text x="219" y="357" font-family="Arial,sans-serif" font-size="27" font-weight="bold" fill="#30206f" text-anchor="middle">11</text>
+<path d="M91 404 Q137 414 183 405 Q229 414 275 404 L253 428 Q217 438 183 428 Q149 438 113 428Z" fill="#087db7"/>
+<path d="M171 429 Q183 447 183 482 M195 429 Q183 447 183 482" fill="none" stroke="#fff" stroke-width="9" stroke-linecap="round"/>
+<text x="183" y="477" font-family="Arial,sans-serif" font-size="23" font-weight="bold" fill="#c62828" text-anchor="middle" transform="rotate(-7 183 477)">TRƯỜNG THPT PHÚ NHUẬN</text>
+</svg>
